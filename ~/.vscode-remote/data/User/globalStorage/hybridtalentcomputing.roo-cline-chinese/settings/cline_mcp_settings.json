@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "jampp": {
+      "command": "npx",
+      "args": [ "-y", "@feedmob/jampp-reporting" ],
+      "env": {
+        "JAMPP_CLIENT_ID": "7cc2564f063a3da7dc471a5bd120fba17c6f5e64",
+        "JAMPP_CLIENT_SECRET": "9aae8a2a657914aad466e3ec96fc7c81857ad53d"
+      }
+    }
+  }
+}
